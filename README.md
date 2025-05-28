@@ -13,3 +13,7 @@
 5. Отбор признаков.
 6. Обучение модели.
 7. Предметный анализ.
+<img width="1070" alt="Снимок экрана 2025-05-28 в 17 14 44" src="https://github.com/user-attachments/assets/a8575e9a-1af7-4cdf-a838-f28c3463dfe1" />
+Ссылка на соревнования - https://www.kaggle.com/competitions/sf-booking/overview
+
+Ссылка на Leaderboard - https://www.kaggle.com/competitions/sf-booking/leaderboard
